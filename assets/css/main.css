@@ -2275,4 +2275,12 @@ button,
     margin-top: 0;
     padding-top: 0; }
 
+.article__footer{
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
 
+.article__footer > h1{
+  text-align: right;
+}
